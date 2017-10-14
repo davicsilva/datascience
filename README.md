@@ -11,6 +11,7 @@ source: [KDNuggets](http://www.kdnuggets.com/2016/03/data-science-puzzle-explain
 * [Books](#books)
 * [Deep Learning](#dl)
 * [Data Science](#ds)
+* [DataViz](#dv)
 * [Machine Learning](#ml)
 * [Python](#python)
 
@@ -37,6 +38,9 @@ source: [KDNuggets](http://www.kdnuggets.com/2016/03/data-science-puzzle-explain
 2. [Link 2](https://www.google.com)
 ---
 
+### <a name="dv"></a>DataViz
+* [TED Talk **Hans Hosling - The best stats you've ever seen**] (https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen/transcript?language=en#t-332112). This is one of the best presentation I had seen.
+---
 ### <a name="ml"></a>Machine Learning 
 * [Link 1](https://www.google.com)
 * [Link 2](https://www.google.com)
