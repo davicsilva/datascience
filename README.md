@@ -31,8 +31,8 @@ source: [KDNuggets](http://www.kdnuggets.com/2016/03/data-science-puzzle-explain
 
 ### <a name="ds"></a>Data Science links with no specific topic
 1. Data Science Venn Diagrams:
-	1. http://www.kdnuggets.com/2016/10/battle-data-science-venn-diagrams.html
-	2. http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram
+	+ http://www.kdnuggets.com/2016/10/battle-data-science-venn-diagrams.html
+	+ http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram
 
 2. [Link 2](https://www.google.com)
 ---
