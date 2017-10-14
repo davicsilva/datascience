@@ -2,4 +2,4 @@
 
 This is one of the best diagrams that try to solve the **Data Science** puzzle:
 
-[images/ai_data-science-diagram2.jpg]
+![data science explained](images/ai_data-science-diagram2.jpg)
