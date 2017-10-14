@@ -1,2 +1,5 @@
-# datascience
-Useful links about Data Science, Machine Learning, Deep Learning, Statistics
+# Data Science/Machine and Deep Learning/AI useful links, docs, books, articles etc.
+
+This is one of the best diagrams that try to solve the **Data Science** puzzle:
+
+[images/ai_data-science-diagram2.jpg]
