@@ -3,7 +3,7 @@
 This is one of the best diagrams that try to solve the **Data Science** puzzle:
 
 ![data science explained](images/ai_data-science-diagram2.jpg)
-source: [http://www.kdnuggets.com/2016/03/data-science-puzzle-explained.html/2](http://www.kdnuggets.com/2016/03/data-science-puzzle-explained.html/2)
+source: [KDNuggets](http://www.kdnuggets.com/2016/03/data-science-puzzle-explained.html/2)
 
 ## Index (alphabetical order)
 
