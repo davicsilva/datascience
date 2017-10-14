@@ -7,7 +7,7 @@ source: [http://www.kdnuggets.com/2016/03/data-science-puzzle-explained.html/2](
 
 ## Index (alphabetical order)
 
-* [AI (Artificial Inteligence](#ai)
+* [AI - Artificial Inteligence](#ai)
 * [Books](#books)
 * [Deep Learning)[#dl]
 * [Data Science (not specific subject)[#ds]
