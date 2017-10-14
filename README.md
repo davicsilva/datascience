@@ -15,24 +15,31 @@ source: [http://www.kdnuggets.com/2016/03/data-science-puzzle-explained.html/2](
 * [Python](#python)
 
 ### <a name="ai"></a>Artificial Inteligence
-Useful links
+* [Link 1](https://www.google.com)
+* [Link 2](https://www.google.com
 ---
 
 ### <a name="books"></a>Books
-Useful links
+* [Link 1](https://www.google.com)
+* [Link 2](https://www.google.com
 ---
 
 ### <a name="dl"></a>Deep Learning
-Useful links
+* [Link 1](https://www.google.com)
+* [Link 2](https://www.google.com
 ---
 
 ### <a name="ds"></a>Data Science links with no specific topic
-Useful links
+* [Link 1](https://www.google.com)
+* [Link 2](https://www.google.com
 ---
 
 ### <a name="ml"></a>Machine Learning 
-Useful links
+* [Link 1](https://www.google.com)
+* [Link 2](https://www.google.com
 ---
 
 ### <a name="python"></a>Python
-Useful links
+* [Link 1](https://www.google.com)
+* [Link 2](https://www.google.com
+---
