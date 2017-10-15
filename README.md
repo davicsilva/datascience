@@ -32,7 +32,7 @@ source: [KDNuggets](http://www.kdnuggets.com/2016/03/data-science-puzzle-explain
 * [Link 2](https://www.google.com)
 ---
 
-### <a name="ds"></a>Data Science links with no specific topic
+### <a name="ds"></a>Data Science links (non specific topics)
 1. Data Science Venn Diagrams:
 	+ http://www.kdnuggets.com/2016/10/battle-data-science-venn-diagrams.html
 	+ http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram
@@ -40,6 +40,8 @@ source: [KDNuggets](http://www.kdnuggets.com/2016/03/data-science-puzzle-explain
 2. 20 short tutorials all data scientists should read and practice - [http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice](http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice)
 
 3. **What is Data Science?** [https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html](https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html)
+
+4. Facebook Prophet: forecasting at scale - [https://research.fb.com/prophet-forecasting-at-scale/](https://research.fb.com/prophet-forecasting-at-scale/)
 ---
 
 ### <a name="dv"></a>DataViz
