@@ -57,11 +57,12 @@ source: [KDNuggets](http://www.kdnuggets.com/2016/03/data-science-puzzle-explain
 ---
 
 ### <a name="python"></a>Python
-* Pandas Pivot Table Explained [http://pbpython.com/pandas-pivot-table-explained.html](http://pbpython.com/pandas-pivot-table-explained.html)
-* Simple Graphing with IPython and Pandas [http://pbpython.com/simple-graphing-pandas.html](http://pbpython.com/simple-graphing-pandas.html)
-* Common Excel Tasks Demonstrated in Pandas [http://pbpython.com/excel-pandas-comp.html](http://pbpython.com/excel-pandas-comp.html)
-* Pandas Grouper and Agg Functions Explained [http://pbpython.com/pandas-grouper-agg.html](http://pbpython.com/pandas-grouper-agg.html)
-* Pandas in a nutshell [http://kanoki.org/2017/07/16/pandas-in-a-nutshell/](http://kanoki.org/2017/07/16/pandas-in-a-nutshell/)
+1. Pandas Pivot Table Explained [http://pbpython.com/pandas-pivot-table-explained.html](http://pbpython.com/pandas-pivot-table-explained.html)
+2. Simple Graphing with IPython and Pandas [http://pbpython.com/simple-graphing-pandas.html](http://pbpython.com/simple-graphing-pandas.html)
+3. Common Excel Tasks Demonstrated in Pandas [http://pbpython.com/excel-pandas-comp.html](http://pbpython.com/excel-pandas-comp.html)
+4. Pandas Grouper and Agg Functions Explained [http://pbpython.com/pandas-grouper-agg.html](http://pbpython.com/pandas-grouper-agg.html)
+5. Pandas in a nutshell [http://kanoki.org/2017/07/16/pandas-in-a-nutshell/](http://kanoki.org/2017/07/16/pandas-in-a-nutshell/)
+6. Python mini tutorial (@Medium) - **"From Zero to Hero"** : [https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 ---
 
 ### <a name="co"></a>Courses and training
